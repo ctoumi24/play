@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:49:48	62923/62923	---MC-	200	added ('OK')	text/html	date:Tue,%2003%20Aug%202021%2004:54:16%20GMT	https://generate-it.com/f826115	C:/My%20Web%20Sites/play/generate-it.com/f826115.html	(from )
+00:49:48	208/208	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2003%20Aug%202021%2004:54:17%20GMT	https://generate-it.com/robots.txt		(from )
